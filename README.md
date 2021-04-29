@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+  <summary> <b> Some git status </b></summary>
+  <br>
+<a href="https://github.com/RBranco1/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoMWatson&show_icons=true&count_private=true&theme=radical&hide=issues" />
+  </a>
+</details>
 <!--
 **PedroLS2603/PedroLS2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
