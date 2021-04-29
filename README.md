@@ -15,7 +15,11 @@ Sou o Pedro, tenho 18 anos e sou um entusiasta de programação! 💻
 <a href="https://github.com/PedroLS2603/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues" />
   </a>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLS2603)](https://github.com/anuraghazra/github-readme-stats)
+
+##Linguagens mais utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLS2603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 <!--
 **PedroLS2603/PedroLS2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
