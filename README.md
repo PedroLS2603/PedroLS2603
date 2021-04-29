@@ -1,15 +1,22 @@
-### Hi there 👋
+#Pedro Lima
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrols2603/)](https://www.linkedin.com/in/pedrols2603/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.l2002@hotmail.com)](mailto:pedro.l2002@hotmail.com)
 
-### Contato
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.l2002@hotmail.com)(mailto:pedro.l2002@hotmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrols2603)](https://www.linkedin.com/in/pedrols2603/)
+
+## Oi! 👋
+Sou o Pedro, tenho 18 anos e sou um entusiasta de programação! 💻
+
+- 🧑‍🎓Atualmente estou cursando Ciência da Computação pelo Senac
+- 🐍 Python entusiasta e aspirante a Backend Dev 😄
+
 <details>
-  <summary> <b> Some git status </b></summary>
+  <summary><b> Um pouco do que faço </b></summary>
   <br>
 <a href="https://github.com/PedroLS2603/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues" />
   </a>
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLS2603)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **PedroLS2603/PedroLS2603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
