@@ -6,7 +6,7 @@
   <summary> <b> Some git status </b></summary>
   <br>
 <a href="https://github.com/PedroLS2603/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chauterise-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues" />
   </a>
 </details>
 <!--
