@@ -10,15 +10,16 @@ Sou o Pedro, tenho 18 anos e sou um entusiasta de programação! 💻
 - 🧑‍🎓Formado por Análise e Desenvolvimento de Sistemas pela ETEC Irmã Agostina
 - 🐍 Python entusiasta e aspirante a Backend Dev 😄
 
-<details>
-  <summary><b> Sobre mim </b></summary>
-  <br>
-<a href="https://github.com/PedroLS2603/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues" />
-  </a>
----  
-  
+***
+
+## Linguagens mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLS2603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Alguns dados
+<a href="https://github.com/PedroLS2603/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroLS2603&show_icons=true&count_private=true&theme=chartreuse-dark&hide=issues"/>
+</a>
+ 
 
 </details>
 <!--
