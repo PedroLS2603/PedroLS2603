@@ -15,8 +15,15 @@ Sou o Pedro, tenho 19 anos e sou um entusiasta de programação! 💻
 <details>
   <summary><b> Um pouco mais sobre mim </b><i></summary>
   <br>
+    
 ## Um pouco do que gosto... 💜
+
+
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLS2603&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 </details>
 
 <!--
