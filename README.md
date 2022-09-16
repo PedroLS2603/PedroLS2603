@@ -4,11 +4,11 @@
 
 
 ## Oi! 👋
-Sou o Pedro, tenho 20 anos e sou um entusiasta de programação! 💻
+Sou o Pedro, tenho 20 anos e sou estudante de programação! 💻
 
 - 📚 Atualmente estou cursando Ciência da Computação pelo Senac
 - 🧑‍🎓Formado por Análise e Desenvolvimento de Sistemas pela ETEC Irmã Agostina
-- 🐍 Python entusiasta e aspirante a Backend Dev 😄
+- 🐍 Entusiasta em python e aspirante a Backend Dev 😄
 
 ***
 
