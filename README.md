@@ -4,7 +4,7 @@
 
 
 ## Oi! 👋
-Sou o Pedro, tenho 20 anos e sou estudante de programação! 💻
+Sou o Pedro, tenho 21 anos e sou estudante de programação! 💻
 
 - 📚 Atualmente estou cursando Ciência da Computação pelo Senac
 - 🧑‍🎓Formado por Análise e Desenvolvimento de Sistemas pela ETEC Irmã Agostina
